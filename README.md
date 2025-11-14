@@ -3,6 +3,8 @@ This project visualizes pitch trajectories in 3D using R, Plotly, and an interac
 
 The tool animates multiple pitches in sequence and differentiates pitch type by color to give a complete assessment of a pitcher's arsenal. It could easily be modified to include multiple pitchers (for the sake of comparison) or multiple of the same pitch type (to show variance).
 
+---
+
 ## Features
 - Uses TrackMan data to visualize a specified pitcher's entire arsenal.
 - Animates pitch flight paths using 3D coordinates.
@@ -11,4 +13,7 @@ The tool animates multiple pitches in sequence and differentiates pitch type by 
 - View trajectories individually or in sequence.
 - Includes a sample dataset for demonstration.
 
+---
+
 ![image alt](https://github.com/bentroutman/UCLA-Baseball-Pitch-Visualizations/blob/65e2fec21dc0c6fd63453546cbdc407b1d687a38/Pitcher-View-Screenshot.png)
+![image_alt](https://github.com/bentroutman/UCLA-Baseball-Pitch-Visualizations/blob/main/Catcher-View-Screenshot.png?raw=true)
