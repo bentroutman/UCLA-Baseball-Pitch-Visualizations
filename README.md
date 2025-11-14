@@ -10,3 +10,5 @@ The tool animates multiple pitches in sequence and differentiates pitch type by 
 - Easy to filter by pitch type, game, pitcher, velocity range, etc.
 - View trajectories individually or in sequence.
 - Includes a sample dataset for demonstration.
+
+![image alt](https://github.com/bentroutman/UCLA-Baseball-Pitch-Visualizations/blob/65e2fec21dc0c6fd63453546cbdc407b1d687a38/Pitcher-View-Screenshot.png)
