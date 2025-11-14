@@ -15,5 +15,5 @@ The tool animates multiple pitches in sequence and differentiates pitch type by 
 
 ---
 
-![image alt](https://github.com/bentroutman/UCLA-Baseball-Pitch-Visualizations/blob/65e2fec21dc0c6fd63453546cbdc407b1d687a38/Pitcher-View-Screenshot.png)
+![image alt](https://github.com/bentroutman/UCLA-Baseball-Pitch-Visualizations/blob/main/Pitcher-View-Screenshot.png?raw=true)
 ![image_alt](https://github.com/bentroutman/UCLA-Baseball-Pitch-Visualizations/blob/main/Catcher-View-Screenshot.png?raw=true)
